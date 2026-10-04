@@ -4,7 +4,7 @@
 
 Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas. Meu foco técnico é o **desenvolvimento back-end**, arquitetando APIs escaláveis e seguras, e a integração de **Inteligência Artificial** para expandir a capacidade analítica e preditiva das regras de negócio.
 
-Tenho como objetivo atuar em projetos globais de alta complexidade. Para isso, mantenho foco contínuo em boas práticas de segurança (certificações OWASP Top 10) e no desenvolvimento de idiomas, praticando inglês técnico e estudando **japonês (foco no JLPT N5)**, visando alinhamento com a cultura corporativa de multinacionais asiáticas.
+Tenho como objetivo atuar em projetos globais de alta complexidade. Para isso, mantenho foco contínuo em boas práticas de segurança (certificações OWASP Top 10) e no desenvolvimento de idiomas, praticando inglês técnico e estudando **japonês (foco no JLPT N3)**, visando alinhamento com a cultura corporativa de multinacionais asiáticas.
 
 ---
 
